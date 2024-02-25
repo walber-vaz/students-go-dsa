@@ -5,7 +5,8 @@ import (
 	"time"
 )
 
-// Time complexity: O(n)
+// Time complexity: O(n) -> O algoritmo tem um tempo de execução proporcional ao tamanho da entrada
+// Space complexity: O(1) -> Não importa o tamanho da entrada, o espaço utilizado é sempre o mesmo
 
 // Jeito mais eficiente
 // func sumNumbers(n int) int {
